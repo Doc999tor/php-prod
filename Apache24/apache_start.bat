@@ -1,0 +1,1 @@
+bin\httpd.exe -k start

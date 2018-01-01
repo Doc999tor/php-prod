@@ -79,3 +79,32 @@ pm_winnt:warn] [pid 5956:tid 628] AH00445: ThreadsPerChild of 15000 exceeds Thre
 [Sun Dec 31 05:47:40.751031 2017] [core:notice] [pid 5956:tid 628] AH00094: Command line: 'c:\\php-prod\\Apache24\\bin\\httpd.exe -d C:/php-prod/Apache24'
 [Sun Dec 31 05:47:40.765040 2017] [mpm_winnt:notice] [pid 5956:tid 628] AH00418: Parent: Created child process 2564
 [Sun Dec 31 05:47:41.115958 2017] [mpm_winnt:notice] [pid 2564:tid 596] AH00354: Child: Starting 1920 worker threads.
+[Sun Dec 31 22:28:27.738890 2017] [mpm_winnt:notice] [pid 5956:tid 628] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Dec 31 22:28:29.757063 2017] [mpm_winnt:notice] [pid 2564:tid 596] AH00364: Child: All worker threads have exited.
+[Sun Dec 31 22:28:29.799120 2017] [mpm_winnt:notice] [pid 5956:tid 628] AH00430: Parent: Child process 2564 exited successfully.
+Starting the 'Apache2.4' service
+(OS 5)Access is denied.  : AH10012: Failed to open the 'Apache2.4' service
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 24028:tid 692] AH00455: Apache/2.4.29 (Win64) PHP/7.1.12 configured -- resuming normal operations
+[Sun Dec 31 22:29:55.152855 2017] [mpm_winnt:notice] [pid 24028:tid 692] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Sun Dec 31 22:29:55.152855 2017] [core:notice] [pid 24028:tid 692] AH00094: Command line: 'c:\\php-prod\\Apache24\\bin\\httpd.exe -d C:/php-prod/Apache24'
+[Sun Dec 31 22:29:55.166728 2017] [mpm_winnt:notice] [pid 24028:tid 692] AH00418: Parent: Created child process 4580
+[Sun Dec 31 22:29:55.438792 2017] [mpm_winnt:notice] [pid 4580:tid 596] AH00354: Child: Starting 15000 worker threads.
+The 'Apache2.4' service is restarting.
+[Sun Dec 31 22:39:44.345831 2017] [mpm_winnt:notice] [pid 24028:tid 692] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sun Dec 31 22:39:44.375719 2017] [mpm_winnt:notice] [pid 24028:tid 692] AH00455: Apache/2.4.29 (Win64) PHP/7.1.12 configured -- resuming normal operations
+[Sun Dec 31 22:39:44.375719 2017] [mpm_winnt:notice] [pid 24028:tid 692] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Sun Dec 31 22:39:44.375719 2017] [core:notice] [pid 24028:tid 692] AH00094: Command line: 'c:\\php-prod\\Apache24\\bin\\httpd.exe -d C:/php-prod/Apache24'
+[Sun Dec 31 22:39:44.388727 2017] [mpm_winnt:notice] [pid 24028:tid 692] AH00418: Parent: Created child process 73824
+[Sun Dec 31 22:39:45.346649 2017] [mpm_winnt:notice] [pid 73824:tid 600] AH00354: Child: Starting 15000 worker threads.
+[Sun Dec 31 22:39:46.454081 2017] [mpm_winnt:notice] [pid 4580:tid 596] AH00364: Child: All worker threads have exited.
+(OS 5)Access is denied.  : AH10014: Failed to open the 'Apache2.4' service
+The 'Apache2.4' service is restarting.
+[Mon Jan 01 04:49:23.653903 2018] [mpm_winnt:notice] [pid 24028:tid 692] AH00424: Parent: Received restart signal -- Restarting the server.
+[Mon Jan 01 04:49:23.701802 2018] [mpm_winnt:notice] [pid 24028:tid 692] AH00455: Apache/2.4.29 (Win64) PHP/7.1.12 configured -- resuming normal operations
+[Mon Jan 01 04:49:23.701802 2018] [mpm_winnt:notice] [pid 24028:tid 692] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Mon Jan 01 04:49:23.701802 2018] [core:notice] [pid 24028:tid 692] AH00094: Command line: 'c:\\php-prod\\Apache24\\bin\\httpd.exe -d C:/php-prod/Apache24'
+[Mon Jan 01 04:49:23.715815 2018] [mpm_winnt:notice] [pid 24028:tid 692] AH00418: Parent: Created child process 73304
+[Mon Jan 01 04:49:24.655512 2018] [mpm_winnt:notice] [pid 73304:tid 608] AH00354: Child: Starting 15000 worker threads.
+[Mon Jan 01 04:49:25.791686 2018] [mpm_winnt:notice] [pid 73824:tid 600] AH00364: Child: All worker threads have exited.
