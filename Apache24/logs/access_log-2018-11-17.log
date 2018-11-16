@@ -1,4 +1,0 @@
-example.com 80 127.0.0.1 2018-11-17 00:18:07 "GET / HTTP/1.0" 200 493in 392out 2ms "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36"
-example.com 80 127.0.0.1 2018-11-17 00:18:07 "GET /apache.png HTTP/1.0" 200 460in 10958out 6ms "http://localhost:8080/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36"
-example.com 80 127.0.0.1 2018-11-17 00:18:07 "GET /script.js HTTP/1.0" 200 423in 345out 21ms "http://localhost:8080/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36"
-example.com 80 127.0.0.1 2018-11-17 00:18:07 "GET /favicon.ico HTTP/1.0" 404 461in 373out 0ms "http://localhost:8080/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36"

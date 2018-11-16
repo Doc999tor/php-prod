@@ -4,3 +4,4 @@
 2018/11/17 00:17:35 [emerg] 1040#3860: directive "root" is not terminated by ";" in C:\www\php-prod\nginx-1.15.6/conf/nginx.conf:45
 2018/11/17 00:17:49 [error] 7224#616: *3 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /robots.txt HTTP/1.1", upstream: "http://127.0.0.1:81/robots.txt", host: "localhost:8080"
 2018/11/17 00:18:02 [notice] 11508#72592: signal process started
+2018/11/17 01:53:55 [notice] 13112#9300: signal process started

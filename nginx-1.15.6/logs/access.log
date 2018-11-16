@@ -1,2 +1,0 @@
-127.0.0.1 - - [17/Nov/2018:00:17:09 +0200] "GET / HTTP/1.1" 499 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36" "-"
-127.0.0.1 - - [17/Nov/2018:00:17:49 +0200] "GET /robots.txt HTTP/1.1" 504 494 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36" "-"

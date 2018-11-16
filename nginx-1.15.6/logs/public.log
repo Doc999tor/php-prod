@@ -1,0 +1,2 @@
+127.0.0.1 - - [17/Nov/2018:01:36:44 +0200] "GET /public/common.css HTTP/1.1" 200 117 "http://localhost:8080/whoami" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36" "-"
+127.0.0.1 - - [17/Nov/2018:01:36:44 +0200] "GET /public/whoami/whoami.css HTTP/1.1" 200 594 "http://localhost:8080/whoami" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36" "-"
