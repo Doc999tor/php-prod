@@ -1,7 +1,7 @@
 # php-prod
 
 Nice and clean Nginx+Apache+PHP installation kit for Windows 64bit
-A basis for Nginx frontend and Apache backend server, PHP as a backend language and MS SQL Server database
+A basis for Nginx frontend and Apache backend server, PHP as a backend language and MS SQL Server database  
 [Another branch](https://github.com/Doc999tor/php-prod/tree/slim) has PHP Slim microframework
 
 ## What it includes:
