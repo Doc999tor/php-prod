@@ -2,7 +2,7 @@
 
 Nice and clean Nginx+Apache+PHP installation kit for Windows 64bit
 A basis for Nginx frontend and Apache backend server, PHP as a backend language and MS SQL Server database
-This branch uses PHP Slim microframework
+This branch uses PHP Slim microframework from this repo: [https://github.com/Doc999tor/PHP-Slim-starter-kit](https://github.com/Doc999tor/PHP-Slim-starter-kit)
 
 ## What it includes:
 1. php-prod folder you drop on C drive
