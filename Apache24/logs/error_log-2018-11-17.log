@@ -23,3 +23,31 @@ Starting the 'Apache2.4' service
 [Sat Nov 17 00:16:16.184797 2018] [:notice] [pid 13124:tid 672] ModSecurity: StatusEngine call successfully sent. For more information visit: http://status.modsecurity.org/
 [Sat Nov 17 00:16:16.276800 2018] [mpm_winnt:notice] [pid 13124:tid 672] AH00354: Child: Starting 15000 worker threads.
 The 'Apache2.4' service is running.
+[Sat Nov 17 01:36:30.631002 2018] [mpm_winnt:notice] [pid 4236:tid 716] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Nov 17 01:36:32.695968 2018] [mpm_winnt:notice] [pid 13124:tid 672] AH00364: Child: All worker threads have exited.
+[Sat Nov 17 01:36:32.836560 2018] [mpm_winnt:notice] [pid 4236:tid 716] AH00430: Parent: Child process 13124 exited successfully.
+Starting the 'Apache2.4' service
+[Sat Nov 17 01:36:38.010365 2018] [:notice] [pid 2068:tid 676] ModSecurity for Apache/2.9.2 (http://www.modsecurity.org/) configured.
+[Sat Nov 17 01:36:38.010365 2018] [:notice] [pid 2068:tid 676] ModSecurity: APR compiled version="1.6.2"; loaded version="1.6.3"
+[Sat Nov 17 01:36:38.010365 2018] [:warn] [pid 2068:tid 676] ModSecurity: Loaded APR do not match with compiled!
+[Sat Nov 17 01:36:38.010365 2018] [:notice] [pid 2068:tid 676] ModSecurity: PCRE compiled version="8.41 "; loaded version="8.41 2017-07-05"
+[Sat Nov 17 01:36:38.010365 2018] [:notice] [pid 2068:tid 676] ModSecurity: LUA compiled version="Lua 5.1"
+[Sat Nov 17 01:36:38.010365 2018] [:notice] [pid 2068:tid 676] ModSecurity: YAJL compiled version="2.1.0"
+[Sat Nov 17 01:36:38.010365 2018] [:notice] [pid 2068:tid 676] ModSecurity: LIBXML compiled version="2.9.4"
+[Sat Nov 17 01:36:38.010365 2018] [:notice] [pid 2068:tid 676] ModSecurity: StatusEngine call: "2.9.2,Apache,1.6.2/1.6.3,8.41/8.41 2017-07-05,Lua 5.1,2.9.4,1b65ca3041855d0ef8b02035119db9edd2386a2d"
+[Sat Nov 17 01:36:38.307832 2018] [:notice] [pid 2068:tid 676] ModSecurity: StatusEngine call successfully sent. For more information visit: http://status.modsecurity.org/
+[Sat Nov 17 01:36:38.416524 2018] [mpm_winnt:notice] [pid 2068:tid 676] AH00455: Apache/2.4.29 (Win64) PHP/7.2.12 configured -- resuming normal operations
+[Sat Nov 17 01:36:38.416524 2018] [mpm_winnt:notice] [pid 2068:tid 676] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 11:12:00
+[Sat Nov 17 01:36:38.416524 2018] [core:notice] [pid 2068:tid 676] AH00094: Command line: 'C:\\www\\php-prod\\Apache24\\bin\\httpd.exe -d C:/www/php-prod/Apache24'
+[Sat Nov 17 01:36:38.416524 2018] [mpm_winnt:notice] [pid 2068:tid 676] AH00418: Parent: Created child process 72924
+[Sat Nov 17 01:36:38.713326 2018] [:notice] [pid 72924:tid 664] ModSecurity for Apache/2.9.2 (http://www.modsecurity.org/) configured.
+[Sat Nov 17 01:36:38.713326 2018] [:notice] [pid 72924:tid 664] ModSecurity: APR compiled version="1.6.2"; loaded version="1.6.3"
+[Sat Nov 17 01:36:38.713326 2018] [:warn] [pid 72924:tid 664] ModSecurity: Loaded APR do not match with compiled!
+[Sat Nov 17 01:36:38.713326 2018] [:notice] [pid 72924:tid 664] ModSecurity: PCRE compiled version="8.41 "; loaded version="8.41 2017-07-05"
+[Sat Nov 17 01:36:38.713326 2018] [:notice] [pid 72924:tid 664] ModSecurity: LUA compiled version="Lua 5.1"
+[Sat Nov 17 01:36:38.713326 2018] [:notice] [pid 72924:tid 664] ModSecurity: YAJL compiled version="2.1.0"
+[Sat Nov 17 01:36:38.713326 2018] [:notice] [pid 72924:tid 664] ModSecurity: LIBXML compiled version="2.9.4"
+[Sat Nov 17 01:36:38.728948 2018] [:notice] [pid 72924:tid 664] ModSecurity: StatusEngine call: "2.9.2,Apache,1.6.2/1.6.3,8.41/8.41 2017-07-05,Lua 5.1,2.9.4,1b65ca3041855d0ef8b02035119db9edd2386a2d"
+[Sat Nov 17 01:36:38.728948 2018] [:notice] [pid 72924:tid 664] ModSecurity: StatusEngine call successfully sent. For more information visit: http://status.modsecurity.org/
+[Sat Nov 17 01:36:38.807930 2018] [mpm_winnt:notice] [pid 72924:tid 664] AH00354: Child: Starting 15000 worker threads.
+The 'Apache2.4' service is running.
